@@ -2,7 +2,6 @@
 
 ## **Project Description**
 This project is organized into two primary directories:  
-- **core**: Contains the core computational code for sound propagation loss calculations.  
 - **data**: Includes scripts for time-frequency analysis of the raw data.  
 
 ---
